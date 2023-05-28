@@ -29,3 +29,9 @@ Escreva um programa em Java que receba do usuário um número indeterminado de c
 
 (vii) O cargueiro está autorizado a decolar somente se o peso total das caixas armazenadas
 atingir ao menos 500 Kg.
+
+
+---------------------------------------------
+
+Para executar o arquivo compactado digite no terminal
+''' java -jar cargueiro.java '''
