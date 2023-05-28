@@ -35,3 +35,5 @@ atingir ao menos 500 Kg.
 
 Para executar o arquivo compactado digite no terminal
 `` java -jar cargueiro.java ``
+
+Requer Java 18.0.2
